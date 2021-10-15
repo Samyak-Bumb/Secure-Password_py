@@ -1,4 +1,4 @@
-# Secure-Password_py
+# Secure-Password
 
 ```python
 # Created By Samyak Bumb
