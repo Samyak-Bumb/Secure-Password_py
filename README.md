@@ -4,7 +4,6 @@
 # Created By Samyak Bumb
 
 SECURE = (
-    # Total 27 Lines
     ('a', '@'),
     ('A', '@'),
     ('c', '('),
